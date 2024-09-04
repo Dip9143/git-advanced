@@ -56,15 +56,3 @@ Demonstrate proficiency in Git branching, merging, and conflict resolution.
 6. **Cleanup**
    - Delete the `feature-1` and `feature-2` branches.
 
-## Deliverables
-You need to upload **ONE** PDF file that includes the following:
-
-1. A screenshot of your GitHub repository showing the commit history and branching.
-2. A screenshot of your local machine showing the Git log and conflict resolution.
-3. A brief write-up of your experience with Git branching and merging.
-
-## Grading Criteria
-- Correct creation and management of branches.
-- Accurate merging and conflict resolution.
-- Clear and meaningful commit messages.
-- Proper deletion of branches.
