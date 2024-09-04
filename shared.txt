@@ -1,3 +1,7 @@
 This is a Shared text file.
 “Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.”
-- Albert Einstein
+
+“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”
+
+― Albert Einstein
+
